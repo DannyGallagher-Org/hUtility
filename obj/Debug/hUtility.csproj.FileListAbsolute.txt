@@ -1,0 +1,6 @@
+/Users/dannygallagher/RiderProjects/hUtility/bin/Debug/hUtility.dll
+/Users/dannygallagher/RiderProjects/hUtility/bin/Debug/hUtility.pdb
+/Users/dannygallagher/RiderProjects/hUtility/obj/Debug/hUtility.csprojAssemblyReference.cache
+/Users/dannygallagher/RiderProjects/hUtility/obj/Debug/hUtility.csproj.CoreCompileInputs.cache
+/Users/dannygallagher/RiderProjects/hUtility/obj/Debug/hUtility.dll
+/Users/dannygallagher/RiderProjects/hUtility/obj/Debug/hUtility.pdb

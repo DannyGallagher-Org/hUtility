@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CF13D70-C187-4EB4-8679-EB45BA2CB5F1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hUtilityRuntime</RootNamespace>
+    <AssemblyName>hUtilityRuntime</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RSG.Promise, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\DLL\RSG.Promise.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Hub/Editor/2018.3.2f1/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\DLL\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animation\DoAnimatorTrigger.cs" />
+    <Compile Include="AssetBundles\AssetBundleManager.cs" />
+    <Compile Include="CallUnityEventOnStart.cs" />
+    <Compile Include="DisplayPath.cs" />
+    <Compile Include="FollowTransform.cs" />
+    <Compile Include="FPSCounter.cs" />
+    <Compile Include="GenericDataSet\DataSet.cs" />
+    <Compile Include="GenericDataSet\RuntimeDataSet.cs" />
+    <Compile Include="Light\DappledLightVolume.cs" />
+    <Compile Include="Light\ShiorisDirectionalLight.cs" />
+    <Compile Include="Line\Bezier.cs" />
+    <Compile Include="Line\Line.cs" />
+    <Compile Include="Line\LineBezier.cs" />
+    <Compile Include="LoadBundleIntoMemory.cs" />
+    <Compile Include="LocomotionSimpleAgent.cs" />
+    <Compile Include="MeshFlicker.cs" />
+    <Compile Include="ObjectFlicker.cs" />
+    <Compile Include="OffsetPositionWithNoiseSeeded.cs" />
+    <Compile Include="PResources\PResources.cs" />
+    <Compile Include="Promises\PromiseUtility.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuitOnKey.cs" />
+    <Compile Include="RiseAndSpin.cs" />
+    <Compile Include="RuntimeCoroutine.cs" />
+    <Compile Include="SetMaterialColorAlphaToNoiseOverTime.cs" />
+    <Compile Include="StaticCoroutinableObject.cs" />
+    <Compile Include="ToggleOnKey.cs" />
+    <Compile Include="UI\ImageFadeOverTime.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Animation\DoAnimatorTrigger.cs.meta" />
+    <Content Include="GenericDataSet\DataSet.cs.meta" />
+    <Content Include="GenericDataSet\RuntimeDataSet.cs.meta" />
+    <Content Include="Light\DappledLightVolume.cs.meta" />
+    <Content Include="Light\ShiorisDirectionalLight.cs.meta" />
+    <Content Include="Particles\VelocityOverLifeFromPerlinWind.cs.meta" />
+    <Content Include="PResources\PResources.cs.meta" />
+    <Content Include="Promises\PromiseUtility.cs.meta" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Line\Editor" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\hUtility.csproj">
+      <Project>{455bd186-aee1-45b3-824a-8bb68b68a093}</Project>
+      <Name>hUtility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>
