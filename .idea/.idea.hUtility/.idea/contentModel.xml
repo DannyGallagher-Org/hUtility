@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_hUtility.-682772376.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Animation" t="Include">
+        <e p="DoAnimatorTrigger.cs" t="Include" />
+        <e p="DoAnimatorTrigger.cs.meta" t="Include" />
+      </e>
+      <e p="AssetBundles" t="Include">
+        <e p="AssetBundleManager.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CallUnityEventOnStart.cs" t="Include" />
+      <e p="DisplayPath.cs" t="Include" />
+      <e p="Editor" t="Include">
+        <e p="LineBezierEditor.cs" t="Include" />
+        <e p="LineEditor.cs" t="Include" />
+      </e>
+      <e p="ExecutionTimer.cs" t="Include" />
+      <e p="FollowTransform.cs" t="Include" />
+      <e p="FPSCounter.cs" t="Include" />
+      <e p="GenericDataSet" t="Include">
+        <e p="DataSet.cs" t="Include" />
+        <e p="DataSet.cs.meta" t="Include" />
+        <e p="RuntimeDataSet.cs" t="Include" />
+        <e p="RuntimeDataSet.cs.meta" t="Include" />
+      </e>
+      <e p="hUtility.csproj" t="IncludeRecursive" />
+      <e p="hUtility.sln" t="IncludeFlat" />
+      <e p="Light" t="Include">
+        <e p="DappledLightVolume.cs" t="Include" />
+        <e p="DappledLightVolume.cs.meta" t="Include" />
+        <e p="ShiorisDirectionalLight.cs" t="Include" />
+        <e p="ShiorisDirectionalLight.cs.meta" t="Include" />
+      </e>
+      <e p="Line" t="Include">
+        <e p="Bezier.cs" t="Include" />
+        <e p="Editor" t="Include" />
+        <e p="Line.cs" t="Include" />
+        <e p="LineBezier.cs" t="Include" />
+      </e>
+      <e p="LoadBundleIntoMemory.cs" t="Include" />
+      <e p="LocomotionSimpleAgent.cs" t="Include" />
+      <e p="MathUtility.cs" t="Include" />
+      <e p="MeshFlicker.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="ObjectFlicker.cs" t="Include" />
+      <e p="OffsetPositionWithNoiseSeeded.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Particles" t="Include">
+        <e p="VelocityOverLifeFromPerlinWind.cs.meta" t="Include" />
+      </e>
+      <e p="PResources" t="Include">
+        <e p="PResources.cs" t="Include" />
+        <e p="PResources.cs.meta" t="Include" />
+      </e>
+      <e p="Promises" t="Include">
+        <e p="PromiseUtility.cs" t="Include" />
+        <e p="PromiseUtility.cs.meta" t="Include" />
+      </e>
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="QuitOnKey.cs" t="Include" />
+      <e p="RiseAndSpin.cs" t="Include" />
+      <e p="RuntimeCoroutine.cs" t="Include" />
+      <e p="SetMaterialColorAlphaToNoiseOverTime.cs" t="Include" />
+      <e p="StaticCoroutinableObject.cs" t="Include" />
+      <e p="ToggleOnKey.cs" t="Include" />
+      <e p="UI" t="Include">
+        <e p="ImageFadeOverTime.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

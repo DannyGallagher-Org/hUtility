@@ -28,9 +28,8 @@ namespace hUtility
         public void Dispose()
         {
             _stopWatch.Stop();
-            // Debug.Log(_description + " took " + _stopWatch.Elapsed.TotalSeconds + "s to execute.");
-            if (_onComplete != null)
-                _onComplete();
+            Console.WriteLine(_description + " took " + _stopWatch.Elapsed.TotalSeconds + "s to execute.");
+            _onComplete?.Invoke();
         }
     }
 }

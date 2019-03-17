@@ -2,10 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hUtility", "hUtility.csproj", "{455BD186-AEE1-45B3-824A-8BB68B68A093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hUtilityRuntime", "hUtilityRuntime\hUtilityRuntime.csproj", "{5CF13D70-C187-4EB4-8679-EB45BA2CB5F1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hUtilityEditor", "hUtilityEditor\hUtilityEditor.csproj", "{CE206937-373C-493F-A522-CB5B742F466D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,13 +12,5 @@ Global
 		{455BD186-AEE1-45B3-824A-8BB68B68A093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{455BD186-AEE1-45B3-824A-8BB68B68A093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{455BD186-AEE1-45B3-824A-8BB68B68A093}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5CF13D70-C187-4EB4-8679-EB45BA2CB5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CF13D70-C187-4EB4-8679-EB45BA2CB5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CF13D70-C187-4EB4-8679-EB45BA2CB5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CF13D70-C187-4EB4-8679-EB45BA2CB5F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CE206937-373C-493F-A522-CB5B742F466D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE206937-373C-493F-A522-CB5B742F466D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE206937-373C-493F-A522-CB5B742F466D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE206937-373C-493F-A522-CB5B742F466D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
