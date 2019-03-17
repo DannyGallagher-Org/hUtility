@@ -57,6 +57,9 @@
     <Compile Include="ExecutionTimer.cs" />
     <Compile Include="Editor\LineBezierEditor.cs" />
     <Compile Include="Editor\LineEditor.cs" />
+    <Compile Include="Extensions\ArrayExtensions.cs" />
+    <Compile Include="Extensions\ListExtensions.cs" />
+    <Compile Include="Extensions\TransformExtensions.cs" />
     <Compile Include="FollowTransform.cs" />
     <Compile Include="FPSCounter.cs" />
     <Compile Include="GenericDataSet\DataSet.cs" />
@@ -81,6 +84,7 @@
     <Compile Include="SetMaterialColorAlphaToNoiseOverTime.cs" />
     <Compile Include="StaticCoroutinableObject.cs" />
     <Compile Include="ToggleOnKey.cs" />
+    <Compile Include="Tuples\Tuples.cs" />
     <Compile Include="UI\ImageFadeOverTime.cs" />
   </ItemGroup>
   <ItemGroup>

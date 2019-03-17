@@ -19,6 +19,11 @@
         <e p="LineEditor.cs" t="Include" />
       </e>
       <e p="ExecutionTimer.cs" t="Include" />
+      <e p="Extensions" t="Include">
+        <e p="ArrayExtensions.cs" t="Include" />
+        <e p="ListExtensions.cs" t="Include" />
+        <e p="TransformExtensions.cs" t="Include" />
+      </e>
       <e p="FollowTransform.cs" t="Include" />
       <e p="FPSCounter.cs" t="Include" />
       <e p="GenericDataSet" t="Include">
@@ -69,6 +74,9 @@
       <e p="SetMaterialColorAlphaToNoiseOverTime.cs" t="Include" />
       <e p="StaticCoroutinableObject.cs" t="Include" />
       <e p="ToggleOnKey.cs" t="Include" />
+      <e p="Tuples" t="Include">
+        <e p="Tuples.cs" t="Include" />
+      </e>
       <e p="UI" t="Include">
         <e p="ImageFadeOverTime.cs" t="Include" />
       </e>
