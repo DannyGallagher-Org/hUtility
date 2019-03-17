@@ -42,7 +42,6 @@
       </e>
       <e p="Line" t="Include">
         <e p="Bezier.cs" t="Include" />
-        <e p="Editor" t="Include" />
         <e p="Line.cs" t="Include" />
         <e p="LineBezier.cs" t="Include" />
       </e>
