@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_hUtility.-682772376.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Danny\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Danny\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_hUtility.-1974888779.00" t="ExcludeRecursive" />
+    <e p="F:\CoreProjects\hUtility" t="IncludeRecursive">
       <e p="Animation" t="Include">
         <e p="DoAnimatorTrigger.cs" t="Include" />
-        <e p="DoAnimatorTrigger.cs.meta" t="Include" />
       </e>
       <e p="AssetBundles" t="Include">
         <e p="AssetBundleManager.cs" t="Include" />
@@ -28,17 +27,13 @@
       <e p="FPSCounter.cs" t="Include" />
       <e p="GenericDataSet" t="Include">
         <e p="DataSet.cs" t="Include" />
-        <e p="DataSet.cs.meta" t="Include" />
         <e p="RuntimeDataSet.cs" t="Include" />
-        <e p="RuntimeDataSet.cs.meta" t="Include" />
       </e>
       <e p="hUtility.csproj" t="IncludeRecursive" />
       <e p="hUtility.sln" t="IncludeFlat" />
       <e p="Light" t="Include">
         <e p="DappledLightVolume.cs" t="Include" />
-        <e p="DappledLightVolume.cs.meta" t="Include" />
         <e p="ShiorisDirectionalLight.cs" t="Include" />
-        <e p="ShiorisDirectionalLight.cs.meta" t="Include" />
       </e>
       <e p="Line" t="Include">
         <e p="Bezier.cs" t="Include" />
@@ -53,16 +48,11 @@
       <e p="ObjectFlicker.cs" t="Include" />
       <e p="OffsetPositionWithNoiseSeeded.cs" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Particles" t="Include">
-        <e p="VelocityOverLifeFromPerlinWind.cs.meta" t="Include" />
-      </e>
       <e p="PResources" t="Include">
         <e p="PResources.cs" t="Include" />
-        <e p="PResources.cs.meta" t="Include" />
       </e>
       <e p="Promises" t="Include">
         <e p="PromiseUtility.cs" t="Include" />
-        <e p="PromiseUtility.cs.meta" t="Include" />
       </e>
       <e p="Properties" t="Include">
         <e p="AssemblyInfo.cs" t="Include" />

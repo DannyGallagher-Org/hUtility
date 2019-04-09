@@ -87,16 +87,6 @@
     <Compile Include="Tuples\Tuples.cs" />
     <Compile Include="UI\ImageFadeOverTime.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="Animation\DoAnimatorTrigger.cs.meta" />
-    <Content Include="GenericDataSet\DataSet.cs.meta" />
-    <Content Include="GenericDataSet\RuntimeDataSet.cs.meta" />
-    <Content Include="Light\DappledLightVolume.cs.meta" />
-    <Content Include="Light\ShiorisDirectionalLight.cs.meta" />
-    <Content Include="Particles\VelocityOverLifeFromPerlinWind.cs.meta" />
-    <Content Include="PResources\PResources.cs.meta" />
-    <Content Include="Promises\PromiseUtility.cs.meta" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
