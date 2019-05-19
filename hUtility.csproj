@@ -54,6 +54,13 @@
     <Compile Include="AssetBundles\AssetBundleManager.cs" />
     <Compile Include="CallUnityEventOnStart.cs" />
     <Compile Include="DisplayPath.cs" />
+    <Compile Include="Editor\CustomEditorObjects.cs" />
+    <Compile Include="Editor\CustomEditorStyles.cs" />
+    <Compile Include="Editor\CustomEditorUtility.cs" />
+    <Compile Include="Editor\DropDownFieldDialoguePopup.cs" />
+    <Compile Include="Editor\InputTextFieldDialoguePopup.cs" />
+    <Compile Include="Editor\ScriptableObjectUtility.cs" />
+    <Compile Include="Editor\TextMessageDialoguePopup.cs" />
     <Compile Include="ExecutionTimer.cs" />
     <Compile Include="Editor\LineBezierEditor.cs" />
     <Compile Include="Editor\LineEditor.cs" />
@@ -81,11 +88,24 @@
     <Compile Include="QuitOnKey.cs" />
     <Compile Include="RiseAndSpin.cs" />
     <Compile Include="RuntimeCoroutine.cs" />
+    <Compile Include="ScriptableVariables\Bools\BoolReference.cs" />
+    <Compile Include="ScriptableVariables\Bools\BoolVariable.cs" />
+    <Compile Include="ScriptableVariables\Bools\Editor\BoolReferenceDrawer.cs" />
+    <Compile Include="ScriptableVariables\Floats\Editor\FloatReferenceDrawer.cs" />
+    <Compile Include="ScriptableVariables\Floats\FloatReference.cs" />
+    <Compile Include="ScriptableVariables\Floats\FloatVariable.cs" />
+    <Compile Include="ScriptableVariables\FutureGO\FutureGoReference.cs" />
+    <Compile Include="ScriptableVariables\FutureGO\FutureGoVariable.cs" />
+    <Compile Include="ScriptableVariables\Strings\Editor\StringReferenceDrawer.cs" />
+    <Compile Include="ScriptableVariables\Strings\StringReference.cs" />
+    <Compile Include="ScriptableVariables\Strings\StringVariable.cs" />
     <Compile Include="SetMaterialColorAlphaToNoiseOverTime.cs" />
     <Compile Include="StaticCoroutinableObject.cs" />
     <Compile Include="ToggleOnKey.cs" />
+    <Compile Include="Tuple.cs" />
     <Compile Include="Tuples\Tuples.cs" />
     <Compile Include="UI\ImageFadeOverTime.cs" />
+    <Compile Include="Validate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -2,22 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90bdccb-27f5-4843-b066-7282d1fba134" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Editor/CustomEditorObjects.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/CustomEditorStyles.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/CustomEditorUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/DropDownFieldDialoguePopup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/InputTextFieldDialoguePopup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/ScriptableObjectUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Editor/TextMessageDialoguePopup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Bools/BoolReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Bools/BoolVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Bools/Editor/BoolReferenceDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Floats/Editor/FloatReferenceDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Floats/FloatReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Floats/FloatVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Strings/Editor/StringReferenceDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Strings/StringReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validate.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animation/DoAnimatorTrigger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericDataSet/DataSet.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericDataSet/RuntimeDataSet.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Light/DappledLightVolume.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Light/ShiorisDirectionalLight.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PResources/PResources.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Particles/VelocityOverLifeFromPerlinWind.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promises/PromiseUtility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/hUtility.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hUtility.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/hUtility.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/hUtility.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hUtility.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hUtility.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.pdb" afterDir="false" />
     </list>
@@ -31,36 +41,116 @@
     <session id="1176082843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="asset" value="1" />
+          <entry key="cs" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
+          <entry key="C#" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="255">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
                 <marker date="1554830139774" expanded="true" signature="0:91" ph="/* Copyright (c) House of Wire 2017 ... */" />
-                <marker date="1554830139774" expanded="true" signature="99:145" ph="..." />
+                <marker date="1554830139774" expanded="false" signature="99:145" ph="..." />
                 <marker date="1554830139774" expanded="true" signature="180:455" ph="{...}" />
                 <marker date="1554830139774" expanded="true" signature="296:453" ph="{...}" />
-                <marker date="1554830139774" expanded="true" signature="311:447" ph="Interface" />
+                <marker date="1554830139774" expanded="false" signature="311:447" ph="Interface" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Editor/CustomEditorUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <marker date="1558274428862" expanded="false" signature="6:32" ph="..." />
+                <marker date="1558274428862" expanded="true" signature="59:474" ph="{...}" />
+                <marker date="1558274428862" expanded="true" signature="105:472" ph="{...}" />
+                <marker date="1558274428862" expanded="true" signature="169:291" ph="{...}" />
+                <marker date="1558274428862" expanded="true" signature="348:466" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+              <folding>
+                <marker date="1558274906829" expanded="true" signature="67:277" ph="{...}" />
+                <marker date="1558274906829" expanded="true" signature="117:275" ph="{...}" />
+                <marker date="1558274906829" expanded="true" signature="207:272" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Validate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <marker date="1558276756850" expanded="true" signature="6:37" ph="..." />
+                <marker date="1558276756850" expanded="true" signature="57:266" ph="{...}" />
+                <marker date="1558276756850" expanded="true" signature="90:264" ph="{...}" />
+                <marker date="1558276756850" expanded="true" signature="154:261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tuple.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+              <folding>
+                <marker date="1558276705546" expanded="true" signature="30:1499" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="72:1497" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="173:449" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="214:318" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="335:439" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="569:921" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="610:752" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="769:911" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="1063:1491" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="1104:1284" ph="{...}" />
+                <marker date="1558276705546" expanded="true" signature="1301:1481" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -68,13 +158,21 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>moon</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GenericDataSet/RuntimeDataSet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Validate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LocomotionSimpleAgent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuitOnKey.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PResources/PResources.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
@@ -96,7 +194,10 @@
     <setting file="file://$PROJECT_DIR$/RuntimeCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FollowTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Editor/CustomEditorUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/ExternTools/GS2U/Scripts/SpreadSheetManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ObjectFlicker.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -115,6 +216,10 @@
         <option value="$PROJECT_DIR$/PResources/PResources.cs" />
         <option value="$PROJECT_DIR$/Tuples/Tuples.cs" />
         <option value="$PROJECT_DIR$/Extensions/TransformExtensions.cs" />
+        <option value="$PROJECT_DIR$/Editor/CustomEditorUtility.cs" />
+        <option value="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" />
+        <option value="$PROJECT_DIR$/Tuple.cs" />
+        <option value="$PROJECT_DIR$/Validate.cs" />
       </list>
     </option>
   </component>
@@ -125,8 +230,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,6 +314,9 @@
       <workItem from="1552743855751" duration="269000" />
       <workItem from="1552849030983" duration="3683000" />
       <workItem from="1554830320632" duration="126000" />
+      <workItem from="1556229455096" duration="10000" />
+      <workItem from="1558274107034" duration="14000" />
+      <workItem from="1558274284394" duration="1877000" />
     </task>
     <task id="LOCAL-00001" summary="hUtility">
       <created>1552664504075</created>
@@ -219,7 +329,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6578000" />
+    <option name="totallyTimeSpent" value="8479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -232,13 +342,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -254,8 +364,7 @@
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.29826465" />
-      <window_info anchor="right" id="LuaJ" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="Statistic" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,6 +372,8 @@
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="PinNote" order="5" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="LuaJ" order="7" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
@@ -446,14 +557,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="255">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
             <marker date="1554830139774" expanded="true" signature="0:91" ph="/* Copyright (c) House of Wire 2017 ... */" />
-            <marker date="1554830139774" expanded="true" signature="99:145" ph="..." />
+            <marker date="1554830139774" expanded="false" signature="99:145" ph="..." />
             <marker date="1554830139774" expanded="true" signature="180:455" ph="{...}" />
             <marker date="1554830139774" expanded="true" signature="296:453" ph="{...}" />
-            <marker date="1554830139774" expanded="true" signature="311:447" ph="Interface" />
+            <marker date="1554830139774" expanded="false" signature="311:447" ph="Interface" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Editor/CustomEditorUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1558274428862" expanded="false" signature="6:32" ph="..." />
+            <marker date="1558274428862" expanded="true" signature="59:474" ph="{...}" />
+            <marker date="1558274428862" expanded="true" signature="105:472" ph="{...}" />
+            <marker date="1558274428862" expanded="true" signature="169:291" ph="{...}" />
+            <marker date="1558274428862" expanded="true" signature="348:466" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <marker date="1558274906829" expanded="true" signature="67:277" ph="{...}" />
+            <marker date="1558274906829" expanded="true" signature="117:275" ph="{...}" />
+            <marker date="1558274906829" expanded="true" signature="207:272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuple.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+          <folding>
+            <marker date="1558276705546" expanded="true" signature="30:1499" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="72:1497" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="173:449" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="214:318" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="335:439" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="569:921" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="610:752" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="769:911" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="1063:1491" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="1104:1284" ph="{...}" />
+            <marker date="1558276705546" expanded="true" signature="1301:1481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/ExternTools/GS2U/Scripts/SpreadSheetManager.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/Data/Config/Languages/Default.asset">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <marker date="1558276756850" expanded="true" signature="6:37" ph="..." />
+            <marker date="1558276756850" expanded="true" signature="57:266" ph="{...}" />
+            <marker date="1558276756850" expanded="true" signature="90:264" ph="{...}" />
+            <marker date="1558276756850" expanded="true" signature="154:261" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -14,8 +14,15 @@
       <e p="CallUnityEventOnStart.cs" t="Include" />
       <e p="DisplayPath.cs" t="Include" />
       <e p="Editor" t="Include">
+        <e p="CustomEditorObjects.cs" t="Include" />
+        <e p="CustomEditorStyles.cs" t="Include" />
+        <e p="CustomEditorUtility.cs" t="Include" />
+        <e p="DropDownFieldDialoguePopup.cs" t="Include" />
+        <e p="InputTextFieldDialoguePopup.cs" t="Include" />
         <e p="LineBezierEditor.cs" t="Include" />
         <e p="LineEditor.cs" t="Include" />
+        <e p="ScriptableObjectUtility.cs" t="Include" />
+        <e p="TextMessageDialoguePopup.cs" t="Include" />
       </e>
       <e p="ExecutionTimer.cs" t="Include" />
       <e p="Extensions" t="Include">
@@ -60,15 +67,44 @@
       <e p="QuitOnKey.cs" t="Include" />
       <e p="RiseAndSpin.cs" t="Include" />
       <e p="RuntimeCoroutine.cs" t="Include" />
+      <e p="ScriptableVariables" t="Include">
+        <e p="Bools" t="Include">
+          <e p="BoolReference.cs" t="Include" />
+          <e p="BoolVariable.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="BoolReferenceDrawer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Floats" t="Include">
+          <e p="Editor" t="Include">
+            <e p="FloatReferenceDrawer.cs" t="Include" />
+          </e>
+          <e p="FloatReference.cs" t="Include" />
+          <e p="FloatVariable.cs" t="Include" />
+        </e>
+        <e p="FutureGO" t="Include">
+          <e p="FutureGoReference.cs" t="Include" />
+          <e p="FutureGoVariable.cs" t="Include" />
+        </e>
+        <e p="Strings" t="Include">
+          <e p="Editor" t="Include">
+            <e p="StringReferenceDrawer.cs" t="Include" />
+          </e>
+          <e p="StringReference.cs" t="Include" />
+          <e p="StringVariable.cs" t="Include" />
+        </e>
+      </e>
       <e p="SetMaterialColorAlphaToNoiseOverTime.cs" t="Include" />
       <e p="StaticCoroutinableObject.cs" t="Include" />
       <e p="ToggleOnKey.cs" t="Include" />
+      <e p="Tuple.cs" t="Include" />
       <e p="Tuples" t="Include">
         <e p="Tuples.cs" t="Include" />
       </e>
       <e p="UI" t="Include">
         <e p="ImageFadeOverTime.cs" t="Include" />
       </e>
+      <e p="Validate.cs" t="Include" />
     </e>
   </component>
 </project>
