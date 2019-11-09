@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Danny\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Danny\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_hUtility.-1974888779.00" t="ExcludeRecursive" />
-    <e p="F:\CoreProjects\hUtility" t="IncludeRecursive">
+    <e p="C:\Users\danie\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\danie\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_hUtility.-1807837334.00" t="ExcludeRecursive" />
+    <e p="C:\Users\danie\Documents\hUtility" t="IncludeRecursive">
       <e p="Animation" t="Include">
         <e p="DoAnimatorTrigger.cs" t="Include" />
       </e>
