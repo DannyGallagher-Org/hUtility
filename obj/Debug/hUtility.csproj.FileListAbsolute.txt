@@ -25,15 +25,6 @@ F:\CoreProjects\hUtility\bin\Debug\RSG.Promise.dll
 F:\CoreProjects\hUtility\bin\Debug\UnityEditor.dll
 F:\CoreProjects\hUtility\bin\Debug\UnityEngine.dll
 F:\CoreProjects\hUtility\bin\Debug\UnityEngine.UI.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.Cecil.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.SerializationLogic.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.DataContract.dll
-F:\CoreProjects\hUtility\bin\Debug\ExCSS.Unity.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.Legacy.NRefactory.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.UNetWeaver.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.CecilTools.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.Cecil.Pdb.dll
-F:\CoreProjects\hUtility\bin\Debug\Unity.Cecil.Mdb.dll
 F:\CoreProjects\hUtility\obj\Debug\hUtility.csprojAssemblyReference.cache
 F:\CoreProjects\hUtility\obj\Debug\hUtility.csproj.CoreCompileInputs.cache
 F:\CoreProjects\hUtility\obj\Debug\hUtility.csproj.CopyComplete

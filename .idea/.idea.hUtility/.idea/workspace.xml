@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BuildServerSettings">
-    <option name="LOGIN" value="" />
-    <option name="SERVER_URL" value="http://buildserver" />
-    <option name="REMEMBER_ME" value="true" />
-    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
-    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
-    <option name="DUPLICATES_BUILD_TYPE_IDS" />
-    <option name="COVERAGE_SETTINGS" />
-    <option name="TEST_STATUS_ENABLED" value="true" />
-    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
-    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
-    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
-    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
-    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
-    <option name="REQUEST_CONFIRMATON" value="false" />
-    <option name="PRE_TESTED_COMMIT" value="true" />
-    <option name="FILTER_BY_STATUS" value="false" />
-    <option name="FILTER_MARKED_AS_FIXED" value="false" />
-    <option name="SHOW_CLOSE_PROMPT" value="true" />
-    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
-    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="d90bdccb-27f5-4843-b066-7282d1fba134" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/CustomEditorObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/CustomEditorObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/CustomEditorStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/CustomEditorStyles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/CustomEditorUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/CustomEditorUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/DropDownFieldDialoguePopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/DropDownFieldDialoguePopup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/InputTextFieldDialoguePopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/InputTextFieldDialoguePopup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/LineBezierEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/LineBezierEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/LineEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/LineEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/ScriptableObjectUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/ScriptableObjectUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Editor/TextMessageDialoguePopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/TextMessageDialoguePopup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Bools/Editor/BoolReferenceDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/BoolReferenceDrawer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Floats/Editor/FloatReferenceDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/FloatReferenceDrawer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Strings/Editor/StringReferenceDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/StringReferenceDrawer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/ExCSS.Unity.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Cecil.Mdb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Cecil.Pdb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Cecil.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.CecilTools.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.DataContract.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Legacy.NRefactory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.SerializationLogic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.UNetWeaver.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.UNetWeaver.dll.mdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/hUtility.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hUtility.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hUtility.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hUtility.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.pdb" afterDir="false" />
     </list>
@@ -39,165 +41,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <marker date="1572902923641" expanded="true" signature="0:91" ph="/* Copyright (c) House of Wire 2017 ... */" />
-                <marker date="1572902923641" expanded="false" signature="99:145" ph="..." />
-                <marker date="1572902923641" expanded="true" signature="180:455" ph="{...}" />
-                <marker date="1572902923641" expanded="true" signature="296:453" ph="{...}" />
-                <marker date="1572902923641" expanded="false" signature="311:447" ph="Interface" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Editor/CustomEditorUtility.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <marker date="1572902923637" expanded="false" signature="6:32" ph="..." />
-                <marker date="1572902923637" expanded="true" signature="59:474" ph="{...}" />
-                <marker date="1572902923637" expanded="true" signature="105:472" ph="{...}" />
-                <marker date="1572902923637" expanded="true" signature="169:291" ph="{...}" />
-                <marker date="1572902923637" expanded="true" signature="348:466" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-              <folding>
-                <marker date="1572902923651" expanded="true" signature="67:277" ph="{...}" />
-                <marker date="1572902923651" expanded="true" signature="117:275" ph="{...}" />
-                <marker date="1572902923651" expanded="true" signature="207:272" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Validate.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <marker date="1572902923656" expanded="false" signature="6:37" ph="..." />
-                <marker date="1572902923656" expanded="true" signature="57:266" ph="{...}" />
-                <marker date="1572902923656" expanded="true" signature="90:264" ph="{...}" />
-                <marker date="1572902923656" expanded="true" signature="154:261" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScriptableVariables/Strings/StringReference.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1572902923653" expanded="true" signature="61:324" ph="{...}" />
-                <marker date="1572902923653" expanded="true" signature="115:322" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tuple.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-              <folding>
-                <marker date="1572902923654" expanded="true" signature="30:1499" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="72:1497" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="173:449" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="214:318" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="335:439" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="569:921" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="610:752" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="769:911" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="1063:1491" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="1104:1284" ph="{...}" />
-                <marker date="1572902923654" expanded="true" signature="1301:1481" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>moon</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RuntimeCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LoadBundleIntoMemory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UI/ImageFadeOverTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Validate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Editor/LineBezierEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Editor/CustomEditorUtility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tuples/Tuples.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ExecutionTimer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/ListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/TransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CallUnityEventOnStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/ArrayExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PResources/PResources.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RiseAndSpin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GenericDataSet/RuntimeDataSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MeshFlicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ToggleOnKey.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LocomotionSimpleAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/ArrayExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FPSCounter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/QuitOnKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PResources/PResources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/ListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/TransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToggleOnKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiseAndSpin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tuples/Tuples.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Validate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ObjectFlicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ScriptableVariables/Strings/StringReference.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QuitOnKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UI/ImageFadeOverTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FollowTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CallUnityEventOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RuntimeCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/ExternTools/GS2U/Scripts/SpreadSheetManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LocomotionSimpleAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineBezierEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MeshFlicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/BoolReferenceDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/CustomEditorUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ExecutionTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hUtilityRuntime/MonoBehaviour1.cs" />
         <option value="$PROJECT_DIR$/hUtilityRuntime/Cinemachine/OutputPositionOnCinemachineTrack.cs" />
-        <option value="$PROJECT_DIR$/hUtilityEditor/MonoBehaviour1.cs" />
         <option value="$PROJECT_DIR$/hUtilityRuntime/FPSCounter.cs" />
         <option value="$PROJECT_DIR$/hUtilityRuntime/UI/ImageFadeOverTime.cs" />
         <option value="$PROJECT_DIR$/hUtilityRuntime/AssetBundles/AssetBundleManager.cs" />
@@ -212,59 +99,16 @@
         <option value="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" />
         <option value="$PROJECT_DIR$/Tuple.cs" />
         <option value="$PROJECT_DIR$/Validate.cs" />
+        <option value="$PROJECT_DIR$/hUtilityEditor/MonoBehaviour1.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1060" />
-  </component>
+  <component name="ProjectId" id="1c0ORWqGNt9jPMeqY7CDv6jtR9w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <autoscrollFromSource SolutionExplorer="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ScriptableVariables" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hUtility" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ScriptableVariables" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Strings" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DLL/UnityEngine.UI.dll" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -288,12 +132,14 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
     <list>
@@ -319,8 +165,8 @@
       <workItem from="1556229455096" duration="10000" />
       <workItem from="1558274107034" duration="14000" />
       <workItem from="1558274284394" duration="1877000" />
-      <workItem from="1572902980803" duration="204000" />
-      <workItem from="1572903977924" duration="352000" />
+      <workItem from="1564835608364" duration="601000" />
+      <workItem from="1589662038718" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="hUtility">
       <created>1552664504075</created>
@@ -332,90 +178,24 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9035000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.277666" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2877551" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.2970297" />
-      <window_info anchor="bottom" id="Statistic" order="15" />
-      <window_info anchor="bottom" id="Performance Profiler" order="16" />
-      <window_info anchor="bottom" id="TeamCity" order="17" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="PinNote" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="LuaJ" order="7" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="PinNote" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="hUtility" />
     <option name="LAST_COMMIT_MESSAGE" value="hUtility" />
   </component>
@@ -428,229 +208,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class1.cs" />
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/MonoBehaviour1.cs" />
-    <entry file="file://$PROJECT_DIR$/CallUnityEventOnStart.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FollowTransform.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MeshFlicker.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectFlicker.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuitOnKey.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RiseAndSpin.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RuntimeCoroutine.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ToggleOnKey.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/Cinemachine/PushTimelineWithFloatReference.cs" />
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/Cinemachine/OutputPositionOnCinemachineTrack.cs" />
-    <entry file="file://$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/DebugMaterial/DebugMaterial.cs" />
-    <entry file="file://$PROJECT_DIR$/hUtilityEditor/MonoBehaviour1.cs" />
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/Particles/VelocityOverLifeFromPerlinWind.cs" />
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/SetPriorityOnVirtualCamera.cs" />
-    <entry file="file://$PROJECT_DIR$/hUtilityRuntime/VolumeOverDistance.cs" />
-    <entry file="file://$PROJECT_DIR$/Editor/LineBezierEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoadBundleIntoMemory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathUtility.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FPSCounter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExecutionTimer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LocomotionSimpleAgent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DisplayPath.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/ImageFadeOverTime.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PResources/PResources.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tuples/Tuples.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/ArrayExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/ListExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/TransformExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/ExternTools/GS2U/Scripts/SpreadSheetManager.cs" />
-    <entry file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/Data/Config/Languages/Default.asset" />
-    <entry file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <marker date="1572902923641" expanded="true" signature="0:91" ph="/* Copyright (c) House of Wire 2017 ... */" />
-            <marker date="1572902923641" expanded="false" signature="99:145" ph="..." />
-            <marker date="1572902923641" expanded="true" signature="180:455" ph="{...}" />
-            <marker date="1572902923641" expanded="true" signature="296:453" ph="{...}" />
-            <marker date="1572902923641" expanded="false" signature="311:447" ph="Interface" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Editor/CustomEditorUtility.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <marker date="1572902923637" expanded="false" signature="6:32" ph="..." />
-            <marker date="1572902923637" expanded="true" signature="59:474" ph="{...}" />
-            <marker date="1572902923637" expanded="true" signature="105:472" ph="{...}" />
-            <marker date="1572902923637" expanded="true" signature="169:291" ph="{...}" />
-            <marker date="1572902923637" expanded="true" signature="348:466" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding>
-            <marker date="1572902923651" expanded="true" signature="67:277" ph="{...}" />
-            <marker date="1572902923651" expanded="true" signature="117:275" ph="{...}" />
-            <marker date="1572902923651" expanded="true" signature="207:272" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tuple.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-          <folding>
-            <marker date="1572902923654" expanded="true" signature="30:1499" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="72:1497" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="173:449" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="214:318" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="335:439" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="569:921" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="610:752" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="769:911" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="1063:1491" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="1104:1284" ph="{...}" />
-            <marker date="1572902923654" expanded="true" signature="1301:1481" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Validate.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1572902923656" expanded="false" signature="6:37" ph="..." />
-            <marker date="1572902923656" expanded="true" signature="57:266" ph="{...}" />
-            <marker date="1572902923656" expanded="true" signature="90:264" ph="{...}" />
-            <marker date="1572902923656" expanded="true" signature="154:261" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptableVariables/Strings/StringReference.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1572902923653" expanded="true" signature="61:324" ph="{...}" />
-            <marker date="1572902923653" expanded="true" signature="115:322" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
