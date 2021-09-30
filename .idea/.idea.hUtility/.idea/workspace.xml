@@ -2,40 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90bdccb-27f5-4843-b066-7282d1fba134" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Int/IntReference.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Int/IntVariable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/CustomEditorObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/CustomEditorObjects.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/CustomEditorStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/CustomEditorStyles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/CustomEditorUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/CustomEditorUtility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/DropDownFieldDialoguePopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/DropDownFieldDialoguePopup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/InputTextFieldDialoguePopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/InputTextFieldDialoguePopup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/LineBezierEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/LineBezierEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/LineEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/LineEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/ScriptableObjectUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/ScriptableObjectUtility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Editor/TextMessageDialoguePopup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/TextMessageDialoguePopup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Bools/Editor/BoolReferenceDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/BoolReferenceDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Floats/Editor/FloatReferenceDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/FloatReferenceDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Strings/Editor/StringReferenceDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hUtilityEditor/StringReferenceDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/ExCSS.Unity.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Cecil.Mdb.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Cecil.Pdb.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Cecil.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.CecilTools.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.DataContract.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.Legacy.NRefactory.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.SerializationLogic.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.UNetWeaver.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/Unity.UNetWeaver.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/hUtility.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hUtility.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Floats/FloatVariable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptableVariables/Floats/FloatVariable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoVariable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hUtility.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hUtility.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,40 +26,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LoadBundleIntoMemory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GenericDataSet/RuntimeDataSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/ArrayExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FPSCounter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PResources/PResources.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/ListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/TransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ToggleOnKey.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RiseAndSpin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tuples/Tuples.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Validate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ObjectFlicker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuitOnKey.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UI/ImageFadeOverTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FollowTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/BoolReferenceDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineBezierEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiseAndSpin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FPSCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CallUnityEventOnStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RuntimeCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://F:/Projects/ShanGame/Moon Lake/Unity Projects/Moon Lake - Main/Assets/ExternTools/GS2U/Scripts/SpreadSheetManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LocomotionSimpleAgent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineBezierEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MeshFlicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hUtilityEditor/BoolReferenceDrawer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hUtilityEditor/CustomEditorUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoadBundleIntoMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UI/ImageFadeOverTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToggleOnKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tuples/Tuples.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FollowTransform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ExecutionTimer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/TransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/ListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/ArrayExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PResources/PResources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Validate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GenericDataSet/RuntimeDataSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ObjectFlicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/CustomEditorUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MeshFlicker.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,41 +84,42 @@
   </component>
   <component name="ProjectId" id="1c0ORWqGNt9jPMeqY7CDv6jtR9w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DLL/UnityEngine.UI.dll" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
     <list>
@@ -147,6 +127,7 @@
       <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,6 +148,7 @@
       <workItem from="1558274284394" duration="1877000" />
       <workItem from="1564835608364" duration="601000" />
       <workItem from="1589662038718" duration="1239000" />
+      <workItem from="1633019521315" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="hUtility">
       <created>1552664504075</created>
@@ -179,8 +161,9 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,9 +176,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="hUtility" />
     <option name="LAST_COMMIT_MESSAGE" value="hUtility" />
   </component>

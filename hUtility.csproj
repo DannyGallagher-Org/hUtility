@@ -83,8 +83,8 @@
     <Compile Include="ScriptableVariables\Bools\BoolVariable.cs" />
     <Compile Include="ScriptableVariables\Floats\FloatReference.cs" />
     <Compile Include="ScriptableVariables\Floats\FloatVariable.cs" />
-    <Compile Include="ScriptableVariables\FutureGO\FutureGoReference.cs" />
-    <Compile Include="ScriptableVariables\FutureGO\FutureGoVariable.cs" />
+    <Compile Include="ScriptableVariables\Ints\IntReference.cs" />
+    <Compile Include="ScriptableVariables\Ints\IntVariable.cs" />
     <Compile Include="ScriptableVariables\Strings\StringReference.cs" />
     <Compile Include="ScriptableVariables\Strings\StringVariable.cs" />
     <Compile Include="SetMaterialColorAlphaToNoiseOverTime.cs" />

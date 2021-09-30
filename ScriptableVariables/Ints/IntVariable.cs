@@ -1,15 +1,16 @@
-﻿using System.ComponentModel;
+using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using JetBrains.Annotations;
 using UnityEngine;
 
-namespace hUtility.ScriptableVariables.Floats
+namespace hUtility.ScriptableVariables.Ints
 {
-    [CreateAssetMenu(fileName = "NewFloatVar", menuName = "DataVariables/Float")]
-    public class FloatVariable : ScriptableObject, INotifyPropertyChanged
+    [CreateAssetMenu(fileName = "NewIntVar", menuName = "DataVariables/Int")]
+    public class IntVariable : ScriptableObject, INotifyPropertyChanged
     {
-        private float _value;
-        public float Value
+        private int _value;
+
+        public int Value
         {
             set
             {
