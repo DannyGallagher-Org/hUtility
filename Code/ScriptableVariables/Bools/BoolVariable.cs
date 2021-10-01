@@ -8,12 +8,14 @@ namespace hUtility.ScriptableVariables.Bools
     [CreateAssetMenu(fileName = "NewBoolVar", menuName = "DataVariables/Bool")]
     public class BoolVariable : ScriptableObject, INotifyPropertyChanged
     {
+        [SerializeField] private bool value;
         private bool _value;
 
         public bool Value
         {
             set
             {
+                this.value = value;
                 _value = value;
                 OnPropertyChanged(ToString());
             }

@@ -8,12 +8,14 @@ namespace hUtility.ScriptableVariables.Ints
     [CreateAssetMenu(fileName = "NewIntVar", menuName = "DataVariables/Int")]
     public class IntVariable : ScriptableObject, INotifyPropertyChanged
     {
+        [SerializeField] private int value;
         private int _value;
 
         public int Value
         {
             set
             {
+                this.value = value;
                 _value = value;
                 OnPropertyChanged(ToString());
             }

@@ -8,11 +8,14 @@ namespace hUtility.ScriptableVariables.Floats
     [CreateAssetMenu(fileName = "NewFloatVar", menuName = "DataVariables/Float")]
     public class FloatVariable : ScriptableObject, INotifyPropertyChanged
     {
+        [SerializeField] private float value;
         private float _value;
+        
         public float Value
         {
             set
             {
+                this.value = value;
                 _value = value;
                 OnPropertyChanged(ToString());
             }

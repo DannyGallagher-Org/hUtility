@@ -10,17 +10,20 @@ namespace hUtility.ScriptableVariables.Strings
     [CreateAssetMenu(fileName = "NewStringVar", menuName = "DataVariables/String")]
     public class StringVariable : ScriptableObject, INotifyPropertyChanged
     {
+        [SerializeField] private string value;
         private string _value;
 
         public string Value
         {
             set
             {
+                this.value = value;
                 _value = value;
                 OnPropertyChanged(ToString());
             }
             get => _value;
         }
+        
         public event PropertyChangedEventHandler PropertyChanged;
 
         [NotifyPropertyChangedInvocator]
