@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d90bdccb-27f5-4843-b066-7282d1fba134" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CallUnityEventOnStart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/CallUnityEventOnStart.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/DisplayPath.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExecutionTimer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ExecutionTimer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FPSCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/FPSCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FollowTransform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/FollowTransform.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoadBundleIntoMemory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/LoadBundleIntoMemory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocomotionSimpleAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/LocomotionSimpleAgent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/MathUtility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeshFlicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/MeshFlicker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectFlicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ObjectFlicker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/OffsetPositionWithNoiseSeeded.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuitOnKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/QuitOnKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RiseAndSpin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RiseAndSpin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuntimeCoroutine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RuntimeCoroutine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/SetMaterialColorAlphaToNoiseOverTime.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StaticCoroutinableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/StaticCoroutinableObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToggleOnKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ToggleOnKey.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Tuple.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Validate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hUtility.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hUtility.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.sln" afterDir="false" />
-    </list>
+    <list default="true" id="d90bdccb-27f5-4843-b066-7282d1fba134" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +134,7 @@
       <workItem from="1564835608364" duration="601000" />
       <workItem from="1589662038718" duration="1239000" />
       <workItem from="1633019521315" duration="725000" />
-      <workItem from="1633098107940" duration="65000" />
+      <workItem from="1633098107940" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="hUtility">
       <created>1552664504075</created>
