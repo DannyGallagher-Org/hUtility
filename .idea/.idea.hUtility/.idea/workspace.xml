@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90bdccb-27f5-4843-b066-7282d1fba134" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Int/IntReference.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScriptableVariables/Int/IntVariable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hUtility/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hUtility/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Floats/FloatVariable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptableVariables/Floats/FloatVariable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoReference.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/FutureGO/FutureGoVariable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptableVariables/Strings/StringVariable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CallUnityEventOnStart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/CallUnityEventOnStart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/DisplayPath.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExecutionTimer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ExecutionTimer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPSCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/FPSCounter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FollowTransform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/FollowTransform.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoadBundleIntoMemory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/LoadBundleIntoMemory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocomotionSimpleAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/LocomotionSimpleAgent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/MathUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeshFlicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/MeshFlicker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectFlicker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ObjectFlicker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/OffsetPositionWithNoiseSeeded.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuitOnKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/QuitOnKey.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RiseAndSpin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RiseAndSpin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RuntimeCoroutine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/RuntimeCoroutine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/SetMaterialColorAlphaToNoiseOverTime.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticCoroutinableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/StaticCoroutinableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleOnKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/ToggleOnKey.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Tuple.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/Validate.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hUtility.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hUtility.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hUtility.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hUtility.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,38 +34,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/QuitOnKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/QuitOnKey.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hUtilityEditor/BoolReferenceDrawer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/DisplayPath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineBezierEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RiseAndSpin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FPSCounter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CallUnityEventOnStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RuntimeCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LocomotionSimpleAgent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LoadBundleIntoMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/RiseAndSpin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/FPSCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/CallUnityEventOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/RuntimeCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/LocomotionSimpleAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/StaticCoroutinableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/LoadBundleIntoMemory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UI/ImageFadeOverTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ToggleOnKey.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SetMaterialColorAlphaToNoiseOverTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/ToggleOnKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/SetMaterialColorAlphaToNoiseOverTime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tuples/Tuples.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FollowTransform.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ExecutionTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/FollowTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/ExecutionTimer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Extensions/TransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Extensions/ListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Extensions/ArrayExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PResources/PResources.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AssetBundles/AssetBundleManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Validate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/Validate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GenericDataSet/DataSet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GenericDataSet/RuntimeDataSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ObjectFlicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/MathUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/ObjectFlicker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hUtilityEditor/CustomEditorUtility.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/hUtilityEditor/LineEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OffsetPositionWithNoiseSeeded.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MeshFlicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/OffsetPositionWithNoiseSeeded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Misc/MeshFlicker.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,7 +156,8 @@
       <workItem from="1558274284394" duration="1877000" />
       <workItem from="1564835608364" duration="601000" />
       <workItem from="1589662038718" duration="1239000" />
-      <workItem from="1633019521315" duration="380000" />
+      <workItem from="1633019521315" duration="725000" />
+      <workItem from="1633098107940" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="hUtility">
       <created>1552664504075</created>

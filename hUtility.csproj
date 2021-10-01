@@ -52,14 +52,9 @@
   <ItemGroup>
     <Compile Include="Animation\DoAnimatorTrigger.cs" />
     <Compile Include="AssetBundles\AssetBundleManager.cs" />
-    <Compile Include="CallUnityEventOnStart.cs" />
-    <Compile Include="DisplayPath.cs" />
-    <Compile Include="ExecutionTimer.cs" />
     <Compile Include="Extensions\ArrayExtensions.cs" />
     <Compile Include="Extensions\ListExtensions.cs" />
     <Compile Include="Extensions\TransformExtensions.cs" />
-    <Compile Include="FollowTransform.cs" />
-    <Compile Include="FPSCounter.cs" />
     <Compile Include="GenericDataSet\DataSet.cs" />
     <Compile Include="GenericDataSet\RuntimeDataSet.cs" />
     <Compile Include="Light\DappledLightVolume.cs" />
@@ -67,18 +62,28 @@
     <Compile Include="Line\Bezier.cs" />
     <Compile Include="Line\Line.cs" />
     <Compile Include="Line\LineBezier.cs" />
-    <Compile Include="LoadBundleIntoMemory.cs" />
-    <Compile Include="LocomotionSimpleAgent.cs" />
-    <Compile Include="MathUtility.cs" />
-    <Compile Include="MeshFlicker.cs" />
-    <Compile Include="ObjectFlicker.cs" />
-    <Compile Include="OffsetPositionWithNoiseSeeded.cs" />
+    <Compile Include="Misc\CallUnityEventOnStart.cs" />
+    <Compile Include="Misc\DisplayPath.cs" />
+    <Compile Include="Misc\ExecutionTimer.cs" />
+    <Compile Include="Misc\FollowTransform.cs" />
+    <Compile Include="Misc\FPSCounter.cs" />
+    <Compile Include="Misc\LoadBundleIntoMemory.cs" />
+    <Compile Include="Misc\LocomotionSimpleAgent.cs" />
+    <Compile Include="Misc\MathUtility.cs" />
+    <Compile Include="Misc\MeshFlicker.cs" />
+    <Compile Include="Misc\ObjectFlicker.cs" />
+    <Compile Include="Misc\OffsetPositionWithNoiseSeeded.cs" />
+    <Compile Include="Misc\QuitOnKey.cs" />
+    <Compile Include="Misc\RiseAndSpin.cs" />
+    <Compile Include="Misc\RuntimeCoroutine.cs" />
+    <Compile Include="Misc\SetMaterialColorAlphaToNoiseOverTime.cs" />
+    <Compile Include="Misc\StaticCoroutinableObject.cs" />
+    <Compile Include="Misc\ToggleOnKey.cs" />
+    <Compile Include="Misc\Tuple.cs" />
+    <Compile Include="Misc\Validate.cs" />
     <Compile Include="PResources\PResources.cs" />
     <Compile Include="Promises\PromiseUtility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuitOnKey.cs" />
-    <Compile Include="RiseAndSpin.cs" />
-    <Compile Include="RuntimeCoroutine.cs" />
     <Compile Include="ScriptableVariables\Bools\BoolReference.cs" />
     <Compile Include="ScriptableVariables\Bools\BoolVariable.cs" />
     <Compile Include="ScriptableVariables\Floats\FloatReference.cs" />
@@ -87,13 +92,8 @@
     <Compile Include="ScriptableVariables\Ints\IntVariable.cs" />
     <Compile Include="ScriptableVariables\Strings\StringReference.cs" />
     <Compile Include="ScriptableVariables\Strings\StringVariable.cs" />
-    <Compile Include="SetMaterialColorAlphaToNoiseOverTime.cs" />
-    <Compile Include="StaticCoroutinableObject.cs" />
-    <Compile Include="ToggleOnKey.cs" />
-    <Compile Include="Tuple.cs" />
     <Compile Include="Tuples\Tuples.cs" />
     <Compile Include="UI\ImageFadeOverTime.cs" />
-    <Compile Include="Validate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
