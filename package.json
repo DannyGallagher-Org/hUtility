@@ -1,0 +1,11 @@
+{
+  "name": "com.houseofwire.utility",
+  "displayName": "hUtility",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "House of Wire Utility",
+  "keywords": [ "utility", "houseofwire" ],
+  "category": "houseofwire",
+  "dependencies": {
+  }
+}
