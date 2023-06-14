@@ -1,7 +1,8 @@
-﻿using UnityEditor;
+﻿using hUtility.ScriptableVariables.Bools;
+using UnityEditor;
 using UnityEngine;
 
-namespace hUtility.ScriptableVariables.Bools.Editor
+namespace hUtilityEditor.ScriptableVariableDrawers
 {
     [CustomPropertyDrawer(typeof(BoolReference))]
     public class BoolReferenceDrawer : PropertyDrawer 
