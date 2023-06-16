@@ -21,6 +21,7 @@ namespace hUtility.ScriptableVariables.Bools
             }
             get => _value;
         }
+        
         public event PropertyChangedEventHandler PropertyChanged;
 
         [NotifyPropertyChangedInvocator]

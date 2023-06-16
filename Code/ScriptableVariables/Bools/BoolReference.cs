@@ -1,9 +1,10 @@
-﻿using System;
+﻿using System.ComponentModel;
+using System;
 
 namespace hUtility.ScriptableVariables.Bools
 {
     [Serializable]
-    public class BoolReference
+    public class BoolReference : INotifyPropertyChanged
     {
         public bool UseConstant = true;
         public bool ConstantValue;
@@ -18,7 +19,17 @@ namespace hUtility.ScriptableVariables.Bools
                     ConstantValue = value;
                 else
                     Variable.Value = value;
+
+                OnPropertyChanged(ToString());
             }
+        }
+        
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        [NotifyPropertyChangedInvocator]
+        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }
