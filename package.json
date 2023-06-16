@@ -1,7 +1,7 @@
 {
   "name": "com.houseofwire.utility",
   "displayName": "hUtility",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "unity": "2018.1",
   "description": "House of Wire Utility - string & int iNotifyPropertyChanged",
   "keywords": [ "utility", "houseofwire" ],

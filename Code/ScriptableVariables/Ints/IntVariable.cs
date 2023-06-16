@@ -6,7 +6,7 @@ using UnityEngine;
 namespace hUtility.ScriptableVariables.Ints
 {
     [CreateAssetMenu(fileName = "NewIntVar", menuName = "DataVariables/Int")]
-    public class IntVariable, INotifyPropertyChanged
+    public class IntVariable: INotifyPropertyChanged
     {
         [SerializeField] private int value;
         private int _value;
