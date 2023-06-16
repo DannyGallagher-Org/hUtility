@@ -1,9 +1,9 @@
 {
   "name": "com.houseofwire.utility",
   "displayName": "hUtility",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "unity": "2018.1",
-  "description": "House of Wire Utility - bool iNotifyPropertyChanged",
+  "description": "House of Wire Utility - bool iNotifyPropertyChanged, fix compiler",
   "keywords": [ "utility", "houseofwire" ],
   "category": "houseofwire",
   "dependencies": {

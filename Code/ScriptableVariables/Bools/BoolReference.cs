@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Runtime.CompilerServices;
 using System;
 
 namespace hUtility.ScriptableVariables.Bools
