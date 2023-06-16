@@ -3,7 +3,7 @@ using System;
 namespace hUtility.ScriptableVariables.Ints
 {
     [Serializable]
-    public class IntReference
+    public class IntReference : INotifyPropertyChanged
     {
         public bool UseConstant = true;
         public int ConstantValue;
@@ -18,7 +18,17 @@ namespace hUtility.ScriptableVariables.Ints
                     ConstantValue = value;
                 else
                     Variable.Value = value;
+                
+                OnPropertyChanged(ToString());
             }
+        }
+        
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        [NotifyPropertyChangedInvocator]
+        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }
