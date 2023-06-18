@@ -1,12 +1,10 @@
 {
     "name": "hUtility",
+    "rootNamespace": "",
     "references": [],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor",
-        "LinuxStandalone32",
         "LinuxStandalone64",
-        "LinuxStandaloneUniversal",
         "macOSStandalone",
         "WSA",
         "WindowsStandalone32",
@@ -18,5 +16,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
